@@ -1,0 +1,49 @@
+
+        header{
+            padding: 12px;
+            text-align: center;
+            background-color: dimgray;
+        }
+        .header{
+            margin: 10px;
+            padding: 10px;
+            font-size: 24px;
+            text-decoration: none;
+            color: black;
+            background-color: dimgray;
+            border-radius: 15px 0;
+        }
+        .header:hover{
+            background-color: gray;
+            color: linen;
+        }
+        .img{
+            width: 95%;
+            padding: 3px;
+            border-radius: 5px;
+            height: 232px;
+        }
+        .heading{
+            font-size: 24px;
+            text-align: center;
+            padding: 10px;
+            margin-top: 2px;
+            
+        }
+        .place-name{
+            font-size: 20px;
+            text-decoration: none;
+            color: black;
+        }
+        .place-name:hover{ 
+            color:lime;
+            opacity: 100%;
+           
+        }
+        footer{
+            padding: 10px 0;
+            background-color: rgba(182, 191, 201, 0.9);
+            font-size: 25px;
+            color: #fff;
+            text-align: center;
+        }
